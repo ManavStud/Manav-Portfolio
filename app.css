@@ -31,11 +31,11 @@
 }
 
 .fill-red {
-    fill: #eb5939
+    fill: #04d9ff
 }
 
 .stroke-red {
-    stroke: #eb5939
+    stroke: #04d9ff
 }
 
 .fill-primary {
@@ -3881,7 +3881,7 @@ picture {
 }
 
 strong {
-    color: #eb5939
+    color: #04d9ff
 }
 
 b {
@@ -4237,7 +4237,7 @@ h6 {
 }
 
 .label_sample {
-    background: #eb5939;
+    background: #04d9ff;
     border-radius: 50%;
     color: #0d0d0d;
     font-size: .875rem;
@@ -4378,7 +4378,7 @@ canvas.three-app {
 
 .layer__red {
     --size: 0px;
-    background: #eb5939;
+    background: #04d9ff;
     left: 0;
     -webkit-mask-image: url(assets/icons/test-mask.svg);
     mask-image: url(assets/icons/test-mask.svg);
@@ -4403,7 +4403,7 @@ canvas.three-app {
 
 .header {
     --top: 1.25rem;
-    --color: #eb5939;
+    --color: #04d9ff;
     --fill: #b7ab98;
     --color-link: hsla(37, 18%, 66%, .5);
     --color-link-active: #b7ab98;
@@ -4581,7 +4581,7 @@ canvas.three-app {
 
 .footer {
     --bottom: 2rem;
-    --color: #eb5939;
+    --color: #04d9ff;
     --color-primary: #b7ab98;
     bottom: 0;
     left: 0;
@@ -6074,7 +6074,7 @@ span.icon {
 }
 
 .testimonial_content b {
-    color: #eb5939;
+    color: #04d9ff;
     display: block;
     font-size: 7.5rem;
     left: 0;
@@ -6172,7 +6172,7 @@ span.icon {
 
 .testimonials_thumbs_flash {
     border-bottom: var(--arrow-size) solid transparent;
-    border-right: var(--arrow-size) solid #eb5939;
+    border-right: var(--arrow-size) solid #04d9ff;
     border-top: var(--arrow-size) solid transparent;
     height: 0;
     left: 0;
@@ -7031,7 +7031,7 @@ body:not(.is-enter) {
 }
 
 .heading-mask_el__masking {
-    background: #eb5939;
+    background: #04d9ff;
     -webkit-clip-path: inset(50% 0 50% 0);
     clip-path: inset(50% 0 50% 0);
     pointer-events: none;
