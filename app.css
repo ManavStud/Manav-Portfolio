@@ -39,11 +39,11 @@
 }
 
 .fill-primary {
-    fill: #B2FCFF
+    fill: #B7FBFF
 }
 
 .stroke-primary {
-    stroke: #B2FCFF
+    stroke: #B7FBFF
 }
 
 .fill-tundora {
@@ -3816,7 +3816,7 @@ html {
     font-smoothing: antialiased !important;
     -webkit-font-smoothing: antialiased !important;
     background: #0d0d0d;
-    color: #B2FCFF;
+    color: #B7FBFF;
     font-family: Avant Garde, sans-serif, serif;
     font-size: calc(7.92453px + 1.88679vw);
     font-weight: 400;
@@ -3885,7 +3885,7 @@ strong {
 }
 
 b {
-    color: #B2FCFF
+    color: #B7FBFF
 }
 
 .spacing {
@@ -4404,9 +4404,9 @@ canvas.three-app {
 .header {
     --top: 1.25rem;
     --color: #04d9ff;
-    --fill: #B2FCFF;
+    --fill: #B7FBFF;
     --color-link: hsla(37, 18%, 66%, .5);
-    --color-link-active: #B2FCFF;
+    --color-link-active: #B7FBFF;
     left: 0;
     mix-blend-mode: var(--mode);
     position: fixed;
@@ -4582,7 +4582,7 @@ canvas.three-app {
 .footer {
     --bottom: 2rem;
     --color: #04d9ff;
-    --color-primary: #B2FCFF;
+    --color-primary: #B7FBFF;
     bottom: 0;
     left: 0;
     mix-blend-mode: var(--mode);
@@ -4764,7 +4764,7 @@ canvas.three-app {
 }
 
 .footer_sound {
-    --color: #B2FCFF;
+    --color: #B7FBFF;
     --color-label: #4d4d4d;
     grid-gap: .3125rem;
     background: none;
@@ -4814,7 +4814,7 @@ canvas.three-app {
 
 @media(any-hover:hover) {
     .footer_sound:hover .footer_sound_label {
-        color: #B2FCFF
+        color: #B7FBFF
     }
 }
 
@@ -5502,7 +5502,7 @@ canvas.three-app {
 }
 
 .client .dots span {
-    background: #B2FCFF;
+    background: #B7FBFF;
     border-radius: 50%;
     display: block;
     height: .5rem;
@@ -5771,7 +5771,7 @@ canvas.three-app {
 }
 
 .videoPlayer .vjs-play-progress {
-    border-bottom: var(--size-bar) solid #B2FCFF;
+    border-bottom: var(--size-bar) solid #B7FBFF;
     height: var(--size-bar);
     position: absolute;
     width: 100%;
@@ -5779,7 +5779,7 @@ canvas.three-app {
 }
 
 .videoPlayer .vjs-play-progress .vjs-time-tooltip {
-    color: #B2FCFF;
+    color: #B7FBFF;
     display: none;
     opacity: 0;
     position: absolute;
@@ -6519,7 +6519,7 @@ span.icon {
 }
 
 .page-loading_text {
-    color: #B2FCFF;
+    color: #B7FBFF;
     font-size: .625rem;
     font-style: normal;
     font-weight: 400;
@@ -6616,12 +6616,12 @@ span.icon {
     -ms-flex-pack: center;
     align-items: center;
     background: transparent;
-    border: 1px solid #B2FCFF;
+    border: 1px solid #B7FBFF;
     border-radius: 4.375rem;
     bottom: 0;
     -webkit-box-shadow: none;
     box-shadow: none;
-    color: #B2FCFF;
+    color: #B7FBFF;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -6643,7 +6643,7 @@ span.icon {
 
 @media(any-hover:hover) {
     .page-loading_start:hover {
-        background: #B2FCFF;
+        background: #B7FBFF;
         color: #0d0d0d
     }
 }
@@ -6664,7 +6664,7 @@ body:not(.is-enter) {
 }
 
 #layout-resize .text-resize {
-    color: #B2FCFF;
+    color: #B7FBFF;
     left: 50%;
     position: relative;
     text-align: center;
