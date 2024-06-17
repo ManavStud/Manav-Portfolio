@@ -4092,7 +4092,7 @@ h1,
 h2,
 h3,
 h4,
-h4 {
+h6 {
     display: block;
     font-family: Avant Garde, sans-serif;
     font-style: normal;
@@ -4144,9 +4144,10 @@ h2 {
 
 .h3,
 h3 {
-    font-size: 1.5rem;
-    letter-spacing: -.04em;
-    line-height: 110%
+    display: block;
+    font-family: Avant Garde, sans-serif;
+    font-style: normal;
+    font-weight: 700
 }
 
 @media(min-width:768px)and (max-width:1199.98px) {
@@ -4172,11 +4173,11 @@ h3 {
 }
 
 .h4,
-/* h4 {
+h4 {
     font-size: .875rem;
     letter-spacing: .03em;
     line-height: 120%
-} */
+}
 
 @media(min-width:768px)and (max-width:1199.98px) {
     .h4,
