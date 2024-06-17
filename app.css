@@ -4092,7 +4092,7 @@ h1,
 h2,
 h3,
 h4,
-h6 {
+h4 {
     display: block;
     font-family: Avant Garde, sans-serif;
     font-style: normal;
@@ -4172,11 +4172,11 @@ h3 {
 }
 
 .h4,
-h4 {
+/* h4 {
     font-size: .875rem;
     letter-spacing: .03em;
     line-height: 120%
-}
+} */
 
 @media(min-width:768px)and (max-width:1199.98px) {
     .h4,
