@@ -4767,7 +4767,7 @@ canvas.three-app {
 
 .footer_sound {
     --color: "#55ffcc";
-    --color-label: #4d4d4d;
+    --color-label: #55ffcc;
     grid-gap: .3125rem;
     background: none;
     border: none;
