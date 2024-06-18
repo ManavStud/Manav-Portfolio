@@ -4405,10 +4405,10 @@ canvas.three-app {
 
 .header {
     --top: 1.25rem;
-    --color: #04d9ff;
-    --fill: #A6F6FF;
+    --color: #55ffcc;
+    --fill: #55ffcc;
     --color-link: hsla(37, 18%, 66%, .5);
-    --color-link-active: #A6F6FF;
+    --color-link-active: #55ffcc;
     left: 0;
     mix-blend-mode: var(--mode);
     position: fixed;
@@ -4583,8 +4583,8 @@ canvas.three-app {
 
 .footer {
     --bottom: 2rem;
-    --color: #04d9ff;
-    --color-primary: #A6F6FF;
+    --color: #55ffcc;
+    --color-primary: #55ffcc;
     bottom: 0;
     left: 0;
     mix-blend-mode: var(--mode);
@@ -4766,7 +4766,7 @@ canvas.three-app {
 }
 
 .footer_sound {
-    --color: #A6F6FF;
+    --color: "#55ffcc";
     --color-label: #4d4d4d;
     grid-gap: .3125rem;
     background: none;
