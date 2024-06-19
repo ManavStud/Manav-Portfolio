@@ -6036,7 +6036,7 @@ span.icon {
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center;
-    border-top: 1px solid hsla(37, 18%, 66%, .15);
+    border-top: 1px solid #55ffcc;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -7017,12 +7017,12 @@ body:not(.is-enter) {
 }
 
 .heading-mask {
-    border-top: 1px solid hsla(37, 18%, 66%, .15);
+    border-top: 1px solid #55ffcc;
     position: relative
 }
 
 .heading-mask:last-child {
-    border-bottom: 1px solid hsla(37, 18%, 66%, .15)
+    border-bottom: 1px solid #55ffcc;
 }
 
 .heading-mask_el__deep {
