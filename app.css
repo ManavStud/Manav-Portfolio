@@ -4663,6 +4663,7 @@ canvas.three-app {
     --duration: 10s;
     background: none;
     border: none;
+    top: 10%;
     bottom: 2.1875rem;
     display: none;
     left: calc(50% - 39px);
