@@ -6499,7 +6499,7 @@ span.icon {
 .page-loading {
     --po: 629;
     --opacity: 1;
-    --size-circle: 20.875rem;
+    --size-circle: 27.875rem;
     -webkit-box-align: center;
     -ms-flex-align: center;
     -webkit-box-pack: center;
@@ -6601,7 +6601,7 @@ span.icon {
     position: absolute;
     top: 75%;
     -webkit-transform: translate(-50%, -40%);
-    transform: translate(-50%, -55%)
+    transform: translate(-50%, -62%)
 }
 
 .page-loading_logo img,
