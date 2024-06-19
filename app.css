@@ -6601,7 +6601,7 @@ span.icon {
     position: absolute;
     top: 75%;
     -webkit-transform: translate(-50%, -40%);
-    transform: translate(-50%, 20%)
+    transform: translate(-50%, -70%)
 }
 
 .page-loading_logo img,
