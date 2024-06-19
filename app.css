@@ -6587,7 +6587,7 @@ span.icon {
     width: var(--size-circle)
 }
 
-/* .page-loading_logo {
+.page-loading_logo {
     -webkit-box-align: center;
     -ms-flex-align: center;
     -webkit-box-pack: center;
@@ -6599,10 +6599,10 @@ span.icon {
     justify-content: center;
     left: 50%;
     position: absolute;
-    top: 50%;
+    top: 70%;
     -webkit-transform: translate(-50%, -40%);
     transform: translate(-50%, -40%)
-} */
+}
 
 .page-loading_logo img,
 .page-loading_logo svg {
