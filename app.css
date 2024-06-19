@@ -7022,7 +7022,7 @@ body:not(.is-enter) {
 }
 
 .heading-mask:last-child {
-    border-bottom: 1px solid #55ffcc;
+    border-bottom: 0.5px solid #55ffcc;
 }
 
 .heading-mask_el__deep {
