@@ -6598,10 +6598,10 @@ span.icon {
     display: flex;
     justify-content: center;
     left: 50%;
-    position: absolute;
+    position: fixed;
     top: 70%;
-    /* -webkit-transform: translate(-50%, -40%);
-    transform: translate(-50%, -40%) */
+    -webkit-transform: translate(-50%, -40%);
+    transform: translate(-50%, -40%)
 }
 
 .page-loading_logo img,
