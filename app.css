@@ -6627,7 +6627,7 @@ span.icon {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
-    height: 0.5rem;
+    height: 2.875rem;
     justify-content: center;
     left: calc((var(--size-circle) - var(--size-w))/2);
     margin-bottom: 0;
