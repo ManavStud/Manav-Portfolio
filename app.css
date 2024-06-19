@@ -4663,7 +4663,6 @@ canvas.three-app {
     --duration: 10s;
     background: none;
     border: none;
-    top: 10%;
     bottom: 2.1875rem;
     display: none;
     left: calc(50% - 39px);
@@ -6498,7 +6497,7 @@ span.icon {
 }
 
 .page-loading {
-    --po: 829;
+    --po: 629;
     --opacity: 1;
     --size-circle: 16.875rem;
     -webkit-box-align: center;
