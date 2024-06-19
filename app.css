@@ -6599,7 +6599,7 @@ span.icon {
     justify-content: center;
     left: 50%;
     position: absolute;
-    top: 70%;
+    top: 50%;
     -webkit-transform: translate(-50%, -40%);
     transform: translate(-50%, -40%)
 }
