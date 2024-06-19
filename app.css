@@ -6600,8 +6600,8 @@ span.icon {
     left: 50%;
     position: absolute;
     top: 70%;
-    -webkit-transform: translate(-50%, -40%);
-    transform: translate(-50%, -40%)
+    /* -webkit-transform: translate(-50%, -40%);
+    transform: translate(-50%, -40%) */
 }
 
 .page-loading_logo img,
@@ -6638,9 +6638,9 @@ span.icon {
     pointer-events: none;
     position: absolute;
     text-transform: uppercase;
-    /* -webkit-transition: background-color .6s cubic-bezier(.165, .84, .44, 1), color .6s cubic-bezier(.165, .84, .44, 1);
+    -webkit-transition: background-color .6s cubic-bezier(.165, .84, .44, 1), color .6s cubic-bezier(.165, .84, .44, 1);
     transition: background-color .6s cubic-bezier(.165, .84, .44, 1), color .6s cubic-bezier(.165, .84, .44, 1);
-    width: var(--size-w) */
+    width: var(--size-w)
 }
 
 @media(any-hover:hover) {
