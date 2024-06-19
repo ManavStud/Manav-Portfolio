@@ -6598,7 +6598,7 @@ span.icon {
     display: flex;
     justify-content: center;
     left: 50%;
-    position: fixed;
+    position: absolute;
     top: 70%;
     -webkit-transform: translate(-50%, -40%);
     transform: translate(-50%, -40%)
