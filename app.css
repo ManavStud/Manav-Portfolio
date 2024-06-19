@@ -6638,9 +6638,9 @@ span.icon {
     pointer-events: none;
     position: absolute;
     text-transform: uppercase;
-    -webkit-transition: background-color .6s cubic-bezier(.165, .84, .44, 1), color .6s cubic-bezier(.165, .84, .44, 1);
+    /* -webkit-transition: background-color .6s cubic-bezier(.165, .84, .44, 1), color .6s cubic-bezier(.165, .84, .44, 1);
     transition: background-color .6s cubic-bezier(.165, .84, .44, 1), color .6s cubic-bezier(.165, .84, .44, 1);
-    width: var(--size-w)
+    width: var(--size-w) */
 }
 
 @media(any-hover:hover) {
