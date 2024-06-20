@@ -7017,12 +7017,12 @@ body:not(.is-enter) {
 }
 
 .heading-mask {
-    border-top: 1px solid hsla(37, 18%, 66%, .15);
+    border-top: 1px solid #B5C0D0;
     position: relative
 }
 
 .heading-mask:last-child {
-    border-bottom: 1px solid hsla(37, 18%, 66%, .15)
+    border-bottom: 1px solid #B5C0D0
 }
 
 .heading-mask_el__deep {
