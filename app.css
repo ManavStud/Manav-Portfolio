@@ -1869,7 +1869,7 @@ body {
 
 hr {
     border: 0;
-    border-top: 1px solid;
+    border-top: 0.01vh solid;
     color: inherit;
     margin: 1rem 0;
     opacity: .25
@@ -6036,7 +6036,7 @@ span.icon {
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center;
-    border-top: 1px solid hsla(37, 18%, 66%, .15);
+    border-top: 0.01vh solid #55ffcc;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -6618,7 +6618,7 @@ span.icon {
     -ms-flex-pack: center;
     align-items: center;
     background: transparent;
-    border: 1px solid #55ffcc;
+    border: 0.01vh solid #55ffcc;
     border-radius: 4.375rem;
     bottom: 0;
     -webkit-box-shadow: none;
@@ -7017,12 +7017,12 @@ body:not(.is-enter) {
 }
 
 .heading-mask {
-    border-top: 1px solid hsla(37, 18%, 66%, .15);
+    border-top: 0.01vh solid #55ffcc;
     position: relative
 }
 
 .heading-mask:last-child {
-    border-bottom: 1px solid hsla(37, 18%, 66%, .15)
+    border-bottom: 0.01vh solid #55ffcc
 }
 
 .heading-mask_el__deep {
