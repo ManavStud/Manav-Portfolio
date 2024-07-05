@@ -4082,6 +4082,13 @@ b {
     outline: none
 }
 
+.what-i-do{
+    font-size: 3rem;
+    letter-spacing: -.05em;
+    line-height: 84%;
+    text-transform: uppercase
+}
+
 .body-text,
 .display,
 .h1,
@@ -4108,6 +4115,7 @@ h1 {
     line-height: 84%;
     text-transform: uppercase
 }
+
 
 @media(min-width:768px)and (max-width:1199.98px) {
     .h1,
