@@ -7028,7 +7028,6 @@ body:not(.is-enter) {
 .heading-mask {
     border-top: 1px solid #686D76;
     position: relative
-    padding: 0.2%;
 }
 
 .heading-mask:last-child {
