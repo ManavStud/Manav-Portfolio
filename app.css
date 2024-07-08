@@ -4127,7 +4127,7 @@ h1 {
 @media(min-width:1200px) {
     .h1,
     h1 {
-        font-size: 5.75rem
+        font-size: 5.25rem
     }
 }
 
@@ -6098,7 +6098,7 @@ span.icon {
 @media(min-width:1200px) {
     .testimonial_content b {
         display: inherit;
-        font-size: 5.75rem;
+        font-size: 5.25rem;
         margin-left: 0;
         position: absolute !important
     }
