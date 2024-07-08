@@ -60,6 +60,7 @@
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
+    padding: 0.4%;
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
     margin-left: calc(var(--bs-gutter-x)*-.5);
@@ -7027,6 +7028,7 @@ body:not(.is-enter) {
 .heading-mask {
     border-top: 1px solid #686D76;
     position: relative
+    padding: 0.2%;
 }
 
 .heading-mask:last-child {
