@@ -30,6 +30,10 @@
     stroke: #0d0d0d
 }
 
+p.lowercase {
+    text-transform: lowercase;
+}
+
 .fill-red {
     fill: #04d9ff
 }
