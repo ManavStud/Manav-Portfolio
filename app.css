@@ -7031,12 +7031,12 @@ body:not(.is-enter) {
 }
 
 .heading-mask {
-    border-top: 1px solid #686D76;
+    border-top: 1px solid #55ffcc;
     position: relative
 }
 
 .heading-mask:last-child {
-    border-bottom: 1px solid #686D76
+    border-bottom: 1px solid #55ffcc
 }
 
 .heading-mask_el__deep {
