@@ -7038,14 +7038,15 @@ body:not(.is-enter) {
     --from: 100deg;
     position: relative;
     border-top: var(--border-width) solid;
+    border-bottom: var(--border-width) solid;
     border-image: conic-gradient(from var(--from), var(--color1), var(--color2)) 1;
     /* border-top: 1px solid #55ffcc;
     position: relative */
 }
 
-.heading-mask:last-child {
+/* .heading-mask:last-child {
     border-bottom: 1px solid #55ffcc
-}
+} */
 
 .heading-mask_el__deep {
     left: 0;
