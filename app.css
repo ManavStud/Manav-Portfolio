@@ -7030,10 +7030,10 @@ body:not(.is-enter) {
     clip-path: inset(0 var(--size) 0 0)
 }
 :root {
-    --border-width: 1px;
+    --border-width: 1.5px;
     --color1: #6be89b;
     --color2: #0076a5;
-    --from: 30deg;
+    --from: 90deg;
   }
 
 .heading-mask {
