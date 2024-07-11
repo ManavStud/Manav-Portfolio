@@ -7031,8 +7031,18 @@ body:not(.is-enter) {
 }
 
 .heading-mask {
-    border-top: 1px solid #55ffcc;
-    position: relative
+    border-width: 1px;
+    --color1: #6be89b;
+    --color2: #0076a5;
+    --from: 30deg;
+    position: relative;
+    padding: var(--border-width);
+    background: conic-gradient(
+      from var(--from),
+      var(--color1),
+      var(--color2));
+    /* border-top: 1px solid #55ffcc;
+    position: relative */
 }
 
 .heading-mask:last-child {
