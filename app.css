@@ -7035,9 +7035,10 @@ body:not(.is-enter) {
     --color2: #0076a5;
     --from: 30deg;
   }
-  
+
 .heading-mask {
-    border: var(--border-width) solid;
+    position: relative;
+    border-top: var(--border-width) solid;
     border-image: conic-gradient(from var(--from), var(--color1), var(--color2)) 1;
     /* border-top: 1px solid #55ffcc;
     position: relative */
