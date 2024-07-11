@@ -7029,17 +7029,16 @@ body:not(.is-enter) {
     -webkit-clip-path: inset(0 var(--size) 0 0);
     clip-path: inset(0 var(--size) 0 0)
 }
-
-.heading-mask {
+:root {
+    --border-width: 5px;
     --color1: #6be89b;
     --color2: #0076a5;
     --from: 30deg;
-    position: relative;
-    padding: var(--border-width);
-    border: 1px conic-gradient(
-      from var(--from),
-      var(--color1),
-      var(--color2));
+  }
+  
+.heading-mask {
+    border: var(--border-width) solid;
+    border-image: conic-gradient(from var(--from), var(--color1), var(--color2)) 1;
     /* border-top: 1px solid #55ffcc;
     position: relative */
 }
