@@ -7038,6 +7038,7 @@ body:not(.is-enter) {
     --from: 100deg;
     position: relative;
     border-top: var(--border-width) solid;
+    --from: 100deg;
     border-bottom: var(--border-width) solid;
     border-image: conic-gradient(from var(--from), var(--color1), var(--color2)) 1;
     /* border-top: 1px solid #55ffcc;
