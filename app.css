@@ -7030,7 +7030,7 @@ body:not(.is-enter) {
     clip-path: inset(0 var(--size) 0 0)
 }
 :root {
-    --border-width: 5px;
+    --border-width: 1px;
     --color1: #6be89b;
     --color2: #0076a5;
     --from: 30deg;
@@ -7045,7 +7045,9 @@ body:not(.is-enter) {
 }
 
 .heading-mask:last-child {
-    border-bottom: 1px solid #55ffcc
+    border-bottom: var(--border-width) solid;
+    border-image: conic-gradient(from var(--from), var(--color1), var(--color2)) 1;
+    /* border-bottom: 1px solid #55ffcc */
 }
 
 .heading-mask_el__deep {
