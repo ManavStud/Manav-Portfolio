@@ -7033,7 +7033,7 @@ body:not(.is-enter) {
     --border-width: 1.5px;
     --color1: #6be89b;
     --color2: #0076a5;
-    --from: 60deg;
+    --from: 100deg;
   }
 
 .heading-mask {
