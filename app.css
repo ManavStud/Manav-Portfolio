@@ -7029,14 +7029,13 @@ body:not(.is-enter) {
     -webkit-clip-path: inset(0 var(--size) 0 0);
     clip-path: inset(0 var(--size) 0 0)
 }
-:root {
+
+
+.heading-mask {
     --border-width: 1.5px;
     --color1: #6be89b;
     --color2: #0076a5;
     --from: 100deg;
-  }
-
-.heading-mask {
     position: relative;
     border-top: var(--border-width) solid;
     border-image: conic-gradient(from var(--from), var(--color1), var(--color2)) 1;
@@ -7045,6 +7044,11 @@ body:not(.is-enter) {
 }
 
 .heading-mask:last-child {
+    --border-width: 1.5px;
+    --color1: #6be89b;
+    --color2: #0076a5;
+    --from: 100deg;
+    position: relative;
     border-bottom: var(--border-width) solid;
     border-image: conic-gradient(from var(--from), var(--color1), var(--color2)) 1;
     /* border-bottom: 1px solid #55ffcc */
