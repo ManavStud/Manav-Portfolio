@@ -7045,7 +7045,6 @@ body:not(.is-enter) {
 }
 
 .heading-mask:last-child {
-    position: relative;
     border-bottom: var(--border-width) solid;
     border-image: conic-gradient(from var(--from), var(--color1), var(--color2)) 1;
     /* border-bottom: 1px solid #55ffcc */
